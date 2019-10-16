@@ -6,7 +6,6 @@ def find_max(nums):
     for x in nums:
         if x > max:
             max = x
-    print(max)
 
 
 def main():
@@ -14,4 +13,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    print(main())
